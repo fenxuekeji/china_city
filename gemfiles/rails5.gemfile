@@ -4,6 +4,6 @@ source "https://ruby.taobao.org"
 
 gem "jquery-rails"
 gem "appraisal"
-gem "rails", "~> 4.0.0"
+gem "rails", "~> 5.0.0"
 
 gemspec :path => "../"
